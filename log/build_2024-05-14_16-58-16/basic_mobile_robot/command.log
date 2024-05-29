@@ -1,0 +1,4 @@
+Invoking command in '/home/garage/dev_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=/home/garage/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/garage/dev_ws/build/basic_mobile_robot -- -j8 -l8
+Invoked command in '/home/garage/dev_ws/build/basic_mobile_robot' returned '0': CMAKE_PREFIX_PATH=/home/garage/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/garage/dev_ws/build/basic_mobile_robot -- -j8 -l8
+Invoking command in '/home/garage/dev_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=/home/garage/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/garage/dev_ws/build/basic_mobile_robot
+Invoked command in '/home/garage/dev_ws/build/basic_mobile_robot' returned '0': CMAKE_PREFIX_PATH=/home/garage/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/garage/dev_ws/build/basic_mobile_robot

@@ -1,0 +1,8 @@
+[31mCMake Error at CMakeLists.txt:42:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "CMakeLists.txt".
+
+[0m
+-- Configuring incomplete, errors occurred!
+See also "/home/garage/dev_ws/build/basic_mobile_robot/CMakeFiles/CMakeOutput.log".
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1

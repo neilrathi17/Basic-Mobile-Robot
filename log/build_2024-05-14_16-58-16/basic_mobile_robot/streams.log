@@ -1,0 +1,54 @@
+[0.012s] Invoking command in '/home/garage/dev_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=/home/garage/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/garage/dev_ws/build/basic_mobile_robot -- -j8 -l8
+[0.095s] Invoked command in '/home/garage/dev_ws/build/basic_mobile_robot' returned '0': CMAKE_PREFIX_PATH=/home/garage/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/garage/dev_ws/build/basic_mobile_robot -- -j8 -l8
+[0.132s] Invoking command in '/home/garage/dev_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=/home/garage/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/garage/dev_ws/build/basic_mobile_robot
+[0.138s] -- Install configuration: ""
+[0.138s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/config
+[0.138s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch
+[0.139s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch/basic_mobile_bot_v3.launch.py
+[0.139s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch/basic_mobile_bot_v2.launch.py
+[0.139s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch/basic_mobile_bot_v1.launch.py
+[0.139s] -- Installing: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch/basic_mobile_bot_v4.launch.py
+[0.139s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/maps
+[0.139s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/meshes
+[0.139s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/meshes/wheel.stl
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/meshes/elbow.stl
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/meshes/robot_base.stl
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/meshes/bicep.stl
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/meshes/arm_base.stl
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/meshes/wrist.stl
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/model.config
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/wheel.stl
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/elbow.stl
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/robot_base.stl
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/bicep.stl
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/arm_base.stl
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/wrist.stl
+[0.140s] -- Installing: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/model.sdf
+[0.140s] -- Installing: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_v2.urdf
+[0.140s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_v1.urdf
+[0.141s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/params
+[0.141s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/rviz
+[0.141s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/rviz/urdf_config.rviz
+[0.141s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/src
+[0.141s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/worlds
+[0.141s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/worlds/basic_mobile_bot_world
+[0.142s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/worlds/basic_mobile_bot_world/smalltown.world
+[0.142s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/ament_index/resource_index/package_run_dependencies/basic_mobile_robot
+[0.143s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/ament_index/resource_index/parent_prefix_path/basic_mobile_robot
+[0.143s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/ament_prefix_path.sh
+[0.143s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/ament_prefix_path.dsv
+[0.143s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/path.sh
+[0.143s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/path.dsv
+[0.143s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.bash
+[0.143s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.sh
+[0.143s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.zsh
+[0.143s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.dsv
+[0.143s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/package.dsv
+[0.143s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/ament_index/resource_index/packages/basic_mobile_robot
+[0.144s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/cmake/basic_mobile_robotConfig.cmake
+[0.144s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/cmake/basic_mobile_robotConfig-version.cmake
+[0.144s] -- Up-to-date: /home/garage/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/package.xml
+[0.145s] Invoked command in '/home/garage/dev_ws/build/basic_mobile_robot' returned '0': CMAKE_PREFIX_PATH=/home/garage/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/garage/dev_ws/build/basic_mobile_robot

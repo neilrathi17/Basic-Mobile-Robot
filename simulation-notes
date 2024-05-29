@@ -1,0 +1,17 @@
+Launching Ros 2 navigiation with gazebo + navigation stack:
+
+source /usr/share/gazebo/setup.bash
+export TURTLEBOT3_MODEL=waffle
+export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/opt/ros/humble/share/turtlebot3_gazebo/models
+ros2 launch nav2_bringup tb3_simulation_launch.py headless:=False slam:=True
+
+launhc robot model in rizViz
+source dev_ws/install/setup.sh
+ros2 launch basic_mobile_robot basic_mobile_bot_v1.launch.py
+
+
+Launching Custom robot in custom world ->  built in dev_ws
+cd dev_ws
+source install/setup.bash
+ros2 launch basic_mobile_robot basic_mobile_bot_v5.launch.py slam:=True
+for steering -> rqt_robot_steering

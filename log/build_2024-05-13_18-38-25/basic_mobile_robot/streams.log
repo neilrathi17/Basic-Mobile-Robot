@@ -1,0 +1,10 @@
+[0.007s] Invoking command in '/home/garage/dev_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=/home/garage/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/garage/dev_ws/build/basic_mobile_robot -- -j8 -l8
+[0.019s] -- Configuring incomplete, errors occurred!
+[0.019s] See also "/home/garage/dev_ws/build/basic_mobile_robot/CMakeFiles/CMakeOutput.log".
+[0.019s] [31mCMake Error at CMakeLists.txt:42:
+[0.019s]   Parse error.  Expected a command name, got unquoted argument with text
+[0.019s]   "CMakeLists.txt".
+[0.019s] 
+[0.019s] [0m
+[0.020s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.021s] Invoked command in '/home/garage/dev_ws/build/basic_mobile_robot' returned '2': CMAKE_PREFIX_PATH=/home/garage/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/garage/dev_ws/build/basic_mobile_robot -- -j8 -l8
